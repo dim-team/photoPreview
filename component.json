@@ -1,0 +1,10 @@
+{
+   "name": "photoPreview",
+   "version": "1.0.0",
+   "description": "photoPreview module",
+   "main": "photoPreview.js",
+   "files": [
+     "photoPreview.js",
+     "photoPreview.css"
+   ]
+}
